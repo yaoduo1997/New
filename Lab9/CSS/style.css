@@ -1,0 +1,287 @@
+/*通用类属性*/
+*{
+	margin: 0;
+	padding: 0;
+}
+ul,ol{
+	list-style-type: none;
+}
+a:link{
+	text-decoration: none;
+	color: #522a06;
+}
+a:hover{
+	text-decoration: underline;
+}
+body{
+	background-image: url(../images/bodybg.gif);
+	width: 100%;
+	text-align: center;
+	font-size: 12px;
+	color: #522a06;
+	padding: 0px;
+	font-family: '宋体',Serif;
+}
+
+/*header部分*/
+#header{
+	height: 205px;
+	background-image: url(../images/bg.gif);
+	background-repeat: none;
+	background-position: center top;
+}
+#banner{
+	width: 1000px;
+	height: 164px;
+	margin: 0 auto;
+}
+#logo{
+	float: left;
+	padding-top: 38px;
+	padding-left: 25px;
+}
+#nav{
+	height: 40px;
+	background-image: url(../images/nav.jpg);
+}
+.nav_body{
+	width: 1000px;
+	margin: 0 auto;
+}
+.nav_content{
+	float: left;
+	width: 800px;
+	padding-top: 15px;
+	font-weight: bolder;
+	color: #fff;
+}
+ul li{
+	display: inline;
+}
+.first a{
+	height: 40px;
+	color: #f9f603;
+}
+.first a:hover{
+	color: #f9f603;
+	text-decoration: none;
+}
+.nav_search{
+	padding-top: 9px;
+}
+#input1{
+	width: 140px;
+	height: 19px;
+	background-color: #f8f5ee;
+}
+#input2{
+	width: 40px;
+	height: 21px;
+	background-color: #000;
+	color: #fff;
+	border: 1px solid #f8f5ee;
+	padding-left: 0px;
+}
+
+/*content部分*/
+#content{
+	width: 1000px;
+	height: 400px;
+	clear: both;
+	margin: 0 auto;
+	margin-top: 2px;
+}
+#content_top{
+	height: 250px;
+	overflow: hidden;
+}
+.news_pic{
+	float: left;
+	width: 324px;
+	height: 243px;
+	background-image: url(../images/news_bg.png);
+	background-repeat: none;
+}
+#pic{
+	width: 300px;
+	height: 200px;
+	padding-top: 15px;
+}
+#zi{
+	width: 300px;
+	height: 22px;
+	text-align: center;
+}
+.news_list{
+	width: 330px;
+	margin-left: 38px;
+	float: left;
+}
+.list{
+	width: 330px;
+	height: 30px;
+	background-image: url(../images/change.png);
+	background-repeat: no-repeat;
+}
+#more{
+	float: right;	
+}
+#un{
+	width: 330px;
+	height: 210px;
+	list-style-type: disc;
+	padding-top: 18px;
+}
+.li{
+	display: block;
+	width: 330px;
+	height: 30px;
+	text-align: left;
+}
+.time{
+	float: right;
+}
+#in{
+	float: right;
+	width: 285px;
+	height: 210px;
+	background-image: url(../images/board_bg.png);
+	background-repeat: no-repeat;
+}
+.pad{
+	padding-top: 18px;
+}
+
+#content_bottom_left{
+	width: 715px;
+	float: left;
+}
+.academic{
+	width: 340px;
+	height: 204px;
+	margin: 0px;
+	float: left;
+}
+#title1{
+	height: 54px;
+	width: 340px;
+	float: left;
+	background-image: url(../images/academic.png);
+	background-repeat: no-repeat;
+}
+#un1{
+	width: 340px;
+	height: 150px;
+	list-style-type: disc;
+	float: left;
+	padding-top: 18px;
+}
+.li1{
+	display: block;
+	width: 340px;
+	height: 25px;
+	text-align: left;
+	overflow: hidden;
+}
+.time1{
+	float: right;
+}
+.book_news{
+	width: 340px;
+	float: left;
+	margin-left: 25px;
+}
+#title2{
+	height: 54px;
+	width: 340px;
+	float: left;
+	background-image: url(../images/book_news.png);
+	background-repeat: no-repeat;
+}
+.fengcai{
+	width: 700px;
+	clear: both;
+}
+#title3{
+	height: 54px;
+	width: 700px;
+	background-image: url(../images/fengcai_bg1.png);
+	background-repeat: no-repeat;
+}
+#beijing{
+	height: 180px;
+	width: 700px;
+	background-image: url(../images/fengcai_bg2.png);
+	background-repeat: no-repeat;
+}
+.picture{
+	height: 136px;
+	padding: 10px 8px;
+	float: left;
+}
+
+#content_bottom_right{
+	width: 280px;
+	margin-top: 20px;
+	float: right;
+}
+#titles{
+	height: 23px;
+	width: 280px;
+	background-image: url(../images/show.png);
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	margin-left: 70px;
+}
+#con{
+	width: 280px;
+	height: 400px;
+	background-image: url(../images/show_bg.png);
+	background-repeat: no-repeat;
+	margin-top: 30px;
+}
+#ming{
+	float: left;
+	margin-left: 26px;
+	margin-top: 16px;
+	clear: both;
+}
+#jia{
+	float: left;
+	height: 96px;
+	width: 224px;
+	margin-top: 10px;
+	margin-left: 26px; 
+}
+#word{
+	color: red;
+}
+#geshi{
+	line-height: 20px;
+	text-align: left;
+}
+#wei{
+	height: 350px;
+	width: 245px;
+	background-image: url(../images/view.png);
+	background-position: right bottom;
+	background-repeat: no-repeat;
+}
+
+/*footer部分*/
+#footer{
+	margin-top: 300px;
+	height: 105px;
+	width: 100%;
+	background-image: url(../images/foot.gif);
+	background-repeat: no-repeat;
+}
+#end{
+	padding-top: 40px;
+	padding-left: 50px;
+}
+#endimg{
+	width: 400px;
+	height: 20px;
+	margin-left: 520px;
+}

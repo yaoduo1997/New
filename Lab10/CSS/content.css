@@ -1,0 +1,129 @@
+/*面包屑导航*/
+#mianbaoxie{
+	height: 40px;
+	line-height: 40px;
+	text-align: left;
+	padding-left: 43px;
+}
+/*content部分*/
+#content{
+	width: 1000px;
+	overflow: hidden;
+	clear: both;
+	margin: auto;
+}
+/*页面正文左侧部分*/
+#contentleft{
+	width: 700px;
+	float: left;
+}
+#p1{
+	font-size: 16px;
+	height: 45px;
+	line-height: 45px;
+	text-align: center;
+	font-weight: bolder;
+	border-bottom: 1px solid #c9baa5;
+}
+#p2{
+	font-size: 12px;
+	text-align: center;
+	font-weight: none;
+	color: #757575;
+	margin: 10px;
+}
+#neirong{
+	line-height: 28px;
+	padding: 10px;
+	font-size: 14px;
+	border-bottom: 1px solid #c9baa5;
+}
+#neirong p{
+	text-indent: 2em;
+	margin-top: 5px;
+	text-align: left;
+}
+#neirong img{
+	margin: 20px;
+}
+#lianjie{
+	height: 40px;
+	line-height: 40px;
+	margin-top: 10px;
+	font-size: 13px;
+}
+#lianjie a:link{
+	margin-right: 40px;
+	color: #844004;
+	font-size: 13px;
+}
+/*页面正文右侧部分*/
+#contentright{
+	width: 280px;
+	float: left;
+	margin-left: 16px;
+}
+#shang{
+	border: 1px solid #c9baa5;
+	background-image: url(../images/bg.png);
+	margin-bottom: 20px;
+}
+#shang img{
+	margin-bottom: 10px;
+	margin: auto;
+}
+#shang ul li{
+	line-height: 30px;
+	margin-left: 13px;
+}
+#xia{
+	width: 280px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#xia img{
+	margin-top: 25px;
+	margin-bottom: 15px;
+	margin: auto;
+}
+#jieshaomingjia{
+	height: 362px;
+	background-image: url(../images/show_bg.png);
+	background-repeat: no-repeat;
+}
+#mingjia{
+	padding-top: 25px;
+	margin-left: 5px;
+}
+#jieshuo{
+	margin-top: 15px;
+	margin-right: 30px;
+	padding-bottom: 0;
+	margin-left: 25px;
+	line-height: 20px;
+	text-align: left;
+}
+#mingzi{
+	color: #b70000;
+	font-weight: bold;
+}
+.img{
+	margin: 0px;
+	padding-right: 2px;
+	padding-left: 15px;
+	float: left;
+}
+.img1{
+	margin: 0px;
+	padding-right: 2px;
+	float: left;
+}
+.img2{
+	margin: 0px;
+	padding-top: 3px;
+	padding-right: 2px;
+	padding-left: 2px;
+	float: left;
+}
+
+

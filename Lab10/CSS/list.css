@@ -1,0 +1,104 @@
+/*面包屑导航*/
+#mianbaoxie{
+	height: 40px;
+	line-height: 40px;
+	text-align: left;
+	padding-left: 43px;
+}
+/*content部分*/
+#content{
+	width: 1000px;
+	overflow: hidden;
+	clear: both;
+	margin: auto;
+}
+/*页面正文左侧部分*/
+#contentleft{
+	width: 200px;
+	float: left;
+}
+#shang{
+	border: 1px solid #c9baa5;
+	background-image: url(../images/bg.png);
+	margin-bottom: 20px;
+}
+#shang img{
+	padding-left: 10px;
+	margin-bottom: 10px;
+	margin: auto;
+}
+#shang ul li{
+	text-align: center;
+	height: 30px;
+	line-height: 30px;
+	font-weight: bold;
+	font-size: 13px;
+}
+#zhaosheng{
+	background-image: url(../images/menubg.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #b70000;
+	font-weight: bolder;
+}
+#zhong{
+	border: 1px solid #c9baa5;
+	background-image: url(../images/bg.png);
+	margin-bottom: 20px;
+}
+#zhong img{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 3px;
+	margin: auto;
+}
+#zhong ul li{
+	text-align: center;
+	height: 30px;
+	line-height: 30px;
+}
+#kuandu{
+	width: 200px;
+}
+/*页面正文右侧部分*/
+#contentright{
+	width: 760px;
+	float: left;
+	margin-left: 20px;
+}
+#listtitle{
+	background-image: url(../images/listtitle.png);
+	background-repeat: no-repeat;
+	border: 1px solid #c9baa5;
+	height: 40px;
+	line-height: 40px;
+	font-size: 20px;
+	color: #b70000;
+	text-align: left;
+	padding-left: 50px;
+}
+#contentright ul li{
+	height: 30px;
+	line-height: 30px;
+	list-style-image:url(../images/pot.gif);
+	text-align:left;
+	list-style-position:inside;
+	padding-left: 10px;
+}
+#contentright ul li span{
+	float: right;
+}
+#contentright p{
+	text-align: center;
+	height: 30px;
+	line-height: 30px;
+}
+#contentright p span{
+	color: red;
+	padding: 5px 20px;
+	border: 1px solid #c9baa5;
+}
+#yanse{
+	color: #b70000;
+	font-weight: bold;
+}

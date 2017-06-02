@@ -1,0 +1,114 @@
+/*通用类属性*/
+*{
+	margin: 0;
+	padding: 0;
+}
+li{
+	text-align:left;
+	list-style-type: none;
+}
+a:link{
+	text-decoration:none;
+	color:#522a06;
+}
+a:hover{
+	text-decoration:underline;
+}
+
+body{
+	width:100%;
+	text-align:center;
+	font-size:12px;
+	color:#522a06;
+	font-family:'宋体';
+	background:url(../images/bodybg.gif);
+	background-repeat: repeat-x;
+	margin:auto;
+}
+
+/*wrap容器*/
+#wrap{
+	width: 100%;
+	margin: 0 auto;
+}
+
+/*header部分*/
+#header{
+	height:205px;
+	background:url(../images/bg.gif) no-repeat center top;
+
+}
+#banner{
+	width:1000px;
+	height:130px;
+	padding-top:38px;
+	margin:auto;	
+}
+#banner img{
+	display:block;
+	margin-left:10px;
+}
+#nav{
+	height:40px;
+	background:url(../images/nav.jpg);
+	margin:auto;
+}
+.nav_content{
+	width:800px;
+	font-weight:bold;
+	color:#fff;
+	height:40px;
+	padding-top:12px;
+	margin-left:250px;
+	float:left;
+}
+.nav_content a{
+	color:#fff;
+}
+.nav_content a:hover{
+	color:#f9f603;
+	text-decoration:none;
+}
+.shouye{
+	color:#f9f603;
+}
+.nav_search{
+	float:left;
+	width:190px;
+	height:21px;
+	background-color:#f8f5ee;
+	margin-top:10px;
+	padding-right:0px;
+}
+.sousuokuang{
+	width:140px;
+	height:21px;
+	border:none;
+}
+.button{
+	width:44px;
+	height:21px;
+	background-color:#000;
+	color:#fff;
+	border:1px solid #f8f5ee;
+}
+
+/*footer部分*/
+#footer{
+	padding-top:50px;
+	height:105px;
+	width: 100%;
+	clear: both;
+	background:url(../images/foot.gif);
+	background-repeat: repeat-x;
+}
+.youqinglianjie{
+	margin-left:60px;
+	padding-top:20px;
+}
+#feng{
+	width: 100%;
+}
+#quanxian{
+	margin-top: 5px;
+}

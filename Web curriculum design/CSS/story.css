@@ -1,0 +1,43 @@
+/*面包屑导航*/
+#mianbaoxie{
+	width: 1000px;
+	height: 50px;
+	line-height: 50px;
+	font-size: 16px;
+}
+#content{
+	width: 1000px;
+	margin-left: 300px;
+}
+#p1{
+	font-size: 16px;
+	height: 45px;
+	line-height: 45px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bolder;
+	border-bottom: 1px solid #c9baa5;
+}
+#p2{
+	font-size: 12px;
+	text-align: center;
+	font-weight: none;
+	color: #757575;
+	margin: 10px;
+}
+#zhong p{
+	text-indent: 2em;
+	text-align: left;
+	font-size: 15px;
+	line-height: 30px;
+	margin: 10px;
+}
+#xia{
+	color: #000000;
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+#xia span{
+	border: 1px solid green;
+	font-size: 15px;
+}

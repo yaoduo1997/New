@@ -1,0 +1,203 @@
+#shang{
+	width: 1000px;
+	margin: auto;
+}
+#content{
+	width: 1000px;
+	margin: auto;
+}
+#xuyan{
+	width: 1000px;
+	height: 300px;
+	margin-bottom: 20px;
+}
+#xuyanpic{
+	width: 1000px;
+	height: 300px;
+}
+
+#zuo1{
+	float: left;
+	background-image: url(../images/bor01.png);
+	background-repeat: no-repeat;
+	width:360px;
+	height: 500px;
+	margin-right: 20px;
+}
+#zuo1 ul{
+	padding-top: 150px;
+	padding-left: 110px;
+}
+#zuo1 ul li{
+	height: 40px;
+	line-height: 40px;
+	color: #8B2500;
+	font-size: 18px;
+	font-weight: bolder;
+	list-style-image: url(../images/arrows.png);
+}
+#zuo1 ul li a:hover{
+	text-decoration: none;
+	color: red;
+}
+#zhong1{
+	float: left;
+	width: 200px;
+	height: 500px;
+	margin-right: 20px;
+	margin-left: 20px;
+	background-image: url(../images/anniu.png);
+	background-repeat: repeat-y;
+}
+#zhong1 ul{
+	padding-top: 3px;
+	padding-left: 50px;
+}
+#zhong1 ul li{
+	height: 100px;
+	line-height: 100px;
+	list-style-type: none;
+	color: 000000;
+	font-size: 40px;
+	font-weight: bolder;
+}
+#zhong1 ul li a:hover{
+	text-decoration: none;
+	background-image: url(../images/anniu1.png);
+	color: white;
+}
+#you1{
+	float: left;
+	background-image: url(../images/bor0.png);
+	background-repeat: no-repeat;
+	width: 360px;
+	height: 500px;
+}
+#you1 ul{
+	padding-top: 150px;
+	padding-left: 55px;
+}
+#you1 ul li{
+	height: 40px;
+	line-height: 40px;
+	color: #8B2500;
+	font-size: 18px;
+	font-weight: bolder;
+	list-style-image: url(../images/arrows.png);
+}
+#you1 ul li a:hover{
+	text-decoration: none;
+	color: red;
+}
+#zuixin{
+	width: 1000px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#zuixin img{
+	width: 1000px;
+	height: 100px;
+}
+#kong{
+	float: right;
+	color: grey;
+	padding-right: 130px;
+}
+#zuixin ul{
+	padding-left: 20px;
+	background-image: url(../images/bor7.png);
+	background-repeat: no-repeat;
+}
+#zuixin ul li{
+	height: 35px;
+	line-height: 35px;
+	list-style-image: url(../images/xiaolian.png);
+	font-size: 25px;
+	padding-left: 110px;
+}
+#top{
+	padding-top: 120px;
+}
+#bottom{
+	padding-bottom: 100px;
+}
+#zuixin ul li a:hover{
+	text-decoration: none;
+	color: red;
+}
+#zhong{
+	width: 1000px;
+	margin: auto;
+}
+#zuo2{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	width: 300px;
+	height: 500px;
+	background-image: url(../images/bor9.png);
+}
+#zhong2{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	width: 300px;
+	height: 500px;
+	background-image: url(../images/bor9.png);
+}
+#you2{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	width: 300px;
+	height: 500px;
+	background-image: url(../images/bor9.png);
+}
+.pic{
+	padding-top: 100px;
+	width: 200px;
+	height: 300px;
+	opacity: 0.5;
+}
+a img:hover{
+	opacity: 1.0;
+}
+#xia{
+	width: 1000px;
+	margin: auto;
+}
+#zuo3{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	width: 300px;
+	height: 500px;
+	background-image: url(../images/bor9.png);
+}
+#zhong3{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	width: 300px;
+	height: 500px;
+	background-image: url(../images/bor9.png);
+}
+#you3{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+	width: 300px;
+	height: 500px;
+	background-image: url(../images/bor9.png);
+}
+#ditu{
+	float: left;
+	margin-top: 20px;
+	width: 1000px;
+	height: 400px;
+}
+#menglong:hover{
+	opacity: 0.5;
+}
